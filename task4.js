@@ -20,6 +20,5 @@ function task1_nearestto100(x, y)
         return 'Numbers are equals, pls select unequal ones';
     }
 }
-      
   
   console.log(task1_nearestto100(50, 60));
